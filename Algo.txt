@@ -1,5 +1,8 @@
 Decide where you want to get your pizza from
 Pull up the menu
+    use your phones
+    use your computer
+    use a flyer
 Choose the pizza that you want
     Choose the style
     Choose the pizza size
