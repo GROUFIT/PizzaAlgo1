@@ -1,10 +1,22 @@
-1. Decide where you want to get your pizza from
-2. Pull up the menu
-3. Choose the pizza that you want
-4. Choose your toppings
-5. Pick up the phone
-6. Call the restaurant
-7. Order your pizza
-8. Pay for your pizza
-9. Collect the delivered pizza
-10. Eat the pizza
+Decide where you want to get your pizza from
+Pull up the menu
+Choose the pizza that you want
+    Choose the style
+    Choose the pizza size
+    Choose your toppings
+Choose pickup or delivery
+    Decide online order 
+        Use order form
+        Select pickup or delivery
+        Pay for pizza
+        Get pizza
+    or call 
+    or in person
+Pick up the phone
+Find contact info
+Call the restaurant
+Order your pizza
+Pay for your pizza
+Collect the delivered pizza
+Eat the pizza
+Review/rate
